@@ -1,0 +1,8 @@
+﻿Group: Admin
+FriendlyName: Import Export Settings 
+SystemName: Admin.Migration
+Version: 0.1
+SupportedVersions: 3.60
+Author: Bhupendra Patel
+DisplayOrder: 1
+FileName: BeePee.Plugin.Admin.Migration.dll
